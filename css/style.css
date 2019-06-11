@@ -42,6 +42,27 @@ hr {
    width: 345px;
    margin: 30px auto;
  }
+
+ table {
+   table-layout: auto;
+   border-style: solid;
+   border-color: green;
+
+ }
+
+ td {
+   border-style: double;
+
+
+   text overflow: ellipsis;
+
+ }
+
+caption {
+  color: green;
+  font-family: 'subscript' serif;
+  text-align: left;
+}
 /*******************  class modifiers *******************/
 .top-container {
   position: relative;
